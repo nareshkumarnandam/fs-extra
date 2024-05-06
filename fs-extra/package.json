@@ -1,0 +1,15 @@
+{
+  "name": "fs-extra-nareshkumarnandam",
+  "version": "1.0.3",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/nareshkumarnandam/fs-extra.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["fs-extra"],
+  "author": "Naresh Kumar Nandam",
+  "license": "ISC",
+  "description": "FS-extra adds file system methods that aren't included in the native fs module."
+}
